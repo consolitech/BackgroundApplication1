@@ -20,5 +20,8 @@ Public NotInheritable Class StartupTask
         ' described in http://aka.ms/backgroundtaskdeferral
         '
 
+        'test of github edit
+
+
     End Sub
 End Class
